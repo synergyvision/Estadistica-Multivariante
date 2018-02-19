@@ -1,0 +1,2 @@
+# Estadistica-Multivariante
+Estadística Multivariante  
